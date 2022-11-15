@@ -1,0 +1,31 @@
+_repo: Sir-John-Everett-Millais_69227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baldry, A. L. (Alfred Lys)
+    alias: Baldry, Alfred Lys
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '38541'
+    url: http://www.gutenberg.org/2009/agents/38541
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Lys_Baldry
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69227'
+language: en
+pgterms:marc905: 20221016195522baldry
+pgterms:marc906: '1902'
+pgterms:marc907: '1908'
+production_note: Al Haines
+publication_note: '1908: George Bell & Sons,1902,reprint 1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bell's miniature series of painters
+subjects:
+- !lcsh 'Millais, John Everett, 1829-1896'
+- !lcc 'ND'
+- GITenberg
+title: Sir John Everett Millais
+url: http://www.gutenberg.org/ebooks/69227
